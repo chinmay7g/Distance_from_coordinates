@@ -21,3 +21,11 @@ The stepwise methodology of the entire assignment was :
 6.R^2 score is also calculated.
 
 Automation in steps starts from step 4.
+
+LEARNINGS FROM THE ASSIGNMENT:
+
+a) Implementation of CustomEstimators, and understanding how they are used.
+
+b) Automating the entire process, instead of hard coding the desired.
+
+c) How to actually implement FeatureUnions.
